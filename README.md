@@ -28,14 +28,10 @@ The dashboard should provide real-time insights into key performance indicators 
 6.	Details Grid Showing All Car Sales Information: Create a detailed grid that presents all relevant information for each car sale, including car model, body style, colour, sales amount, dealer region, date, etc
 
 ## Dashboard:
-![image](https://github.com/navadkarsujit/Car-Sales-Analysis-PowerBI-/assets/144350681/ca6877be-7bc8-4f38-b0cf-88c11c635adb)
-
-![image](https://github.com/navadkarsujit/Car-Sales-Analysis-PowerBI-/assets/144350681/a6ede4da-1a49-4401-9529-88829c0d6010)
 
 
+![Screenshot 2024-02-19 231050](https://github.com/navadkarsujit/Car-Sales-Analysis-PowerBI-/assets/144350681/53dc6068-ba0b-4d7a-9e4c-fbb4f4e6d947)
+![Screenshot 2024-02-19 231218](https://github.com/navadkarsujit/Car-Sales-Analysis-PowerBI-/assets/144350681/5df2eac1-cff0-43b2-84fd-519771d419fa)
 
-
-Dashboard:
- 
 
  
